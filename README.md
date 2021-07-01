@@ -16,6 +16,9 @@ https://nodejs.org/en/download/
 JAVA(JDK) installed in the system (Java 8).
 
 
+
+
+
 Set JAVA_HOME paths correctly in the system.
 
 
@@ -34,7 +37,7 @@ Or
 dpkg -i allure_2.4.1~xenial_all.deb
 sudo apt-get install -f
 
-Installation
+Installation process
 
 Setup Scripts
 
